@@ -14,7 +14,7 @@ Este é um projeto simples em React que exibe a hora atual e saúda o usuário c
 
 ## Como Funciona
 
-O projeto utiliza o `useState` e o `useEffect` do React para capturar a hora atual e atualizar a saudação automaticamente conforme a mudança de tempo.
+O projeto utiliza o `Intl.DateTimeFormat` para formatar a hora atual e determinar a saudação com base na hora do dia.
 
 ### Código do Componente
 
