@@ -1,4 +1,4 @@
-# Saudações Horárias em React
+# Saudações Horárias em React + NextJS
 
 ![Projeto em execução](https://imgur.com/3MoU3Lk.png)
 
